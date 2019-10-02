@@ -1,0 +1,6 @@
+{
+    "total" : 175,
+    "expenseArray": [
+        {"id":1,"buisnessName":"mcDonalds","value":50,"precLeft":100}
+    ]
+}
